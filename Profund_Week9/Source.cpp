@@ -13,7 +13,7 @@ bool onEdge(int x, int y, int r) {
 int main() {
 	int a, r;
 	while (true) {
-		printf("Enter Sphere radius : ");
+		printf("Enter Death star radius : ");
 		scanf("%d", &a);
 		r = a * a;
 		if (a >= 9) {
